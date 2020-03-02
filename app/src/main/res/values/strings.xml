@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingrese_email">Ingrese email</string>
+    <string name="ingresar_por_google">Ingresar por google</string>
+    <string name="password">password</string>
+    <string name="password2">Password</string>
+    <string name="username">Username</string>
+    <string name="gracias_por_regstrarte_con_google">Gracias por Regstrarte con google</string>
+    <string name="ingresar2">ingresar</string>
+    <string name="menu">Menu</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="cancel">cancel</string>
+    <string name="password3">Password</string>
+    <string name="email">Email</string>
+
+    <string name="name">Name</string>
+    <string name="registrarce">registrarce</string>
+
+
+    <string name="date">Date</string>
+
+
+    <string name="last_name">Last Name</string>
+</resources>
